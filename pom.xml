@@ -146,6 +146,9 @@
             <url>packagecloud+https://packagecloud.io/hclacademy/snapshot</url>
           </snapshotRepository>
         </distributionManagement>
+        <activation>
+          <activeByDefault>true</activeByDefault>
+        </activation>
       </profile>
 
     <profile>
