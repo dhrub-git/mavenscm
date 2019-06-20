@@ -5,7 +5,7 @@
 
   <groupId>com.hcl.academy</groupId>
   <artifactId>profiletest</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
 
   <name>profiletest</name>
   <!-- FIXME change it to the project's website -->
@@ -25,7 +25,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/dhrub-git/mavenscm.git</developerConnection>
     <url>https://github.com/dhrub-git/mavenscm.git</url>
-    <tag>HEAD</tag>
+    <tag>profiletest-1.2</tag>
   </scm>
 
   <dependencies>
