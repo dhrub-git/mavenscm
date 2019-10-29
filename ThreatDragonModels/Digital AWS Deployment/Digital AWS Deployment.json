@@ -5,7 +5,17 @@
     "description": "Digital AWS Deployment Model"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "Dhrub"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Digital Threat",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
